@@ -2,6 +2,7 @@
 
 ### Education
 Mechanical Engineer
+Passionate about data science
 
 ### Projects
 - Loan Status Prediction
