@@ -2,7 +2,7 @@
 
 ### Education
 Mechanical Engineer
-\n
+
 Passionate about data science
 
 ### Projects
