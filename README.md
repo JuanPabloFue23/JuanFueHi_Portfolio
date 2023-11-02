@@ -6,6 +6,7 @@ Mechanical Engineer
 Passionate about data science
 
 ### Projects
-- Loan Status Prediction
-- Spam Mail Prediction
+- Loan Status Prediction (SVM model)
+- Wine Quality Prediction (Random Forest Classifier)
 - Big Mart Sales Prediction
+- Spam Mail Prediction
