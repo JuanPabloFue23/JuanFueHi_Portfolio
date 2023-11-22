@@ -1,3 +1,4 @@
 Este es un archivo plano inicial
 
-Mi nombre es Juan Mechanical Engineer passionate about data science
+Mi nombre es Juan y tengo 25 años, nacido en Colombia
+Mechanical Engineer passionate about data science
