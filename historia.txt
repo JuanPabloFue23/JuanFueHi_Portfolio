@@ -1,6 +1,10 @@
 Este es un archivo plano inicial
 
+Donde realizo cambios
+
 Mi nombre es Juan y tengo 25 años, nacido en Colombia
 Mechanical Engineer passionate about data science
 
 Me gusta el data science pero estoy en el proceso.
+
+
