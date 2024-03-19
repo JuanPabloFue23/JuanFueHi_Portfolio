@@ -20,6 +20,12 @@ def get_user(user_id):
     
     return jsonify(user_data), 200 # The 200 is the status code 
 
+@app.route("/create-user", methods=["POST", "GET"])
+def create_user():
+    data = request.get_json()
+
+    return jsonify(data), 201
+
 #El siguiente condicional hará que corra nuestro servidor Flask
 if __name__ == "__main__":
     app.run(debug=True) 
