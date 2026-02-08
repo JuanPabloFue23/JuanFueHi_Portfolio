@@ -51,9 +51,9 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img width="480" src="https://metrics.lecoq.io/JuanPabloFue23?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.threshold=0%&languages.limit=8&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.colors=github&languages.ignored=html,css&theme=tokyonight" />
-</p>
+## 📈 My Activity
+- **Total Contributions:** ![GitHub total contributions](https://img.shields.io/github/search/JuanPabloFue23?query=user%3AJuanPabloFue23&label=Commits&color=green)
+- **Top Language:** ![GitHub top language](https://img.shields.io/github/languages/top/JuanPabloFue23/JuanFueHi_Portfolio?color=blue)
 ---
 
 <p align="center">
