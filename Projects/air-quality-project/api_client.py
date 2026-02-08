@@ -24,10 +24,12 @@ def process_air_quality_data(raw_data):
     
     # In v3 /latest, we look at the first result in the list
     first_result = raw_data["results"][0]
+
+    print(first_result)
     
     return {
-        "city": "Madrid (Station 2101)",
+        "city": first_result.get("locality"),
         "value": first_result.get("value"),
-        "unit": "µg/m³",
+        "unit": "µg/m³",    
         "timestamp": first_result.get("datetime", {}).get("utc")
     }

@@ -19,5 +19,5 @@ def run_guardian(city):
 
 if __name__ == "__main__":
     # For now, we run it once. Later we can add the loop!
-    target_city = "Madrid" 
+    target_city = "New York" 
     run_guardian(target_city)

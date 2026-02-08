@@ -1,0 +1,12 @@
+# Entornos virtuales
+env-3.12/
+venv/
+env/
+NLP/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Mac OS files
+.DS_Store

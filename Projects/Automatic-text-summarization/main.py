@@ -34,12 +34,7 @@ except Exception:
     print("⚠️ Modo manual activado.")
     use_manual = True
 
-text = """
-Artificial Intelligence (AI) is rapidly transforming various sectors including healthcare, education, finance, and transportation. 
-With the ability to process massive datasets, identify patterns, and automate decision-making, AI is streamlining operations 
-and improving efficiency. In healthcare, AI assists in diagnosing diseases and personalizing treatments. In finance, it's used 
-to detect fraud and make investment decisions.
-"""
+text = input("Introduce the text you want to summarize: ")
 
 print("✨ Generando resumen...")
 
