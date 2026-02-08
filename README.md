@@ -15,9 +15,9 @@
 ## 🚀 About Me
 I am a **Mechanical Engineer** transitioning into the world of Artificial Intelligence. I specialize in bridging the gap between physical systems and data-driven intelligence, applying the analytical rigor of engineering to solve complex problems through **Machine Learning**, **Deep Learning**, and **Data Science**.
 
-* 🎓 **Background:** Mechanical Engineering | AI Engineer
-* 🔭 **Interests:** Autonomous Systems, Optimization, and Applied Artificial Intelligence.
-* 🌱 **Currently Learning:** Deep Learning with **PyTorch**, Advanced **NLP**, Retrieval-Augmented Generation (**RAG**), and **Agentic AI**.
+🎓 **Background:** Mechanical Engineering | AI Engineer
+🔭 **Interests:** Autonomous Systems, Optimization, and Applied Artificial Intelligence.
+🌱 **Currently Learning:** Deep Learning with **PyTorch**, Advanced **NLP**, Retrieval-Augmented Generation (**RAG**), and **Agentic AI**.
 
 ---
 
