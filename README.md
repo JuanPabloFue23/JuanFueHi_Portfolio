@@ -13,11 +13,11 @@
 ---
 
 ## 🚀 About Me
-I am a **Mechanical Engineer** transitioning into the world of Artificial Intelligence. I specialize in bridging the gap between physical systems and data-driven intelligence, applying the analytical rigor of engineering to **Data Science** and **NLP** challenges.
+I am a **Mechanical Engineer** transitioning into the world of Artificial Intelligence. I specialize in bridging the gap between physical systems and data-driven intelligence, applying the analytical rigor of engineering to solve complex problems through **Machine Learning**, **Deep Learning**, and **Data Science**.
 
 * 🎓 **Background:** Mechanical Engineering | AI Engineer
-* 🔭 **Interests:** Natural Language Processing (NLP), Computer Vision, and Process Optimization.
-* 🌱 **Currently Learning:** Large Language Models (LLMs) and Cloud Deployment.
+* 🔭 **Interests:** Autonomous Systems, Optimization, and Applied Artificial Intelligence.
+* 🌱 **Currently Learning:** Deep Learning with **PyTorch**, Advanced **NLP**, Retrieval-Augmented Generation (**RAG**), and **Agentic AI**.
 
 ---
 
@@ -35,18 +35,18 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 
 ## 📂 Featured Projects
 
-### 🤖 Natural Language Processing (NLP)
+### 🤖 AI & Natural Language Processing (NLP)
 
 #### [Automatic Text Summarization](https://github.com/JuanPabloFue23/JuanFueHi_Portfolio/tree/main/Projects/Automatic-text-summarization)
 > **A high-performance implementation of NLP techniques to condense complex information into digestible insights.**
 * **Approaches:** Extractive (TextRank) and Abstractive (BART/T5) summarization.
 * **Impact:** Reduced reading time by up to 70% while maintaining semantic integrity.
-* **Tech:** `HuggingFace Transformers`, `PyTorch`, `NLTK`, `FastAPI`.
+* **Tech:** `HuggingFace Transformers`, `PyTorch`, `NLTK`.
 
 ---
 
 ### 📊 Data Science & Machine Learning
-*Coming Soon...* (Update this section as you add more projects!)
+*Coming Soon... (Projects involving Predictive Maintenance, Optimization, or Deep Learning)*
 
 ---
 
@@ -59,5 +59,5 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 ---
 
 <p align="center">
-  Thanks for stopping by! Feel free to reach out for collaborations or to talk about the future of AI in Engineering.
+  Thanks for stopping by! I'm always open to discussing AI, Engineering, or the future of Agentic Systems.
 </p>
