@@ -54,13 +54,7 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanPabloFue23&show_icons=true&theme=tokyonight&count_private=true" alt="Juan Pablo's Stats" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFue23&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloFue23&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="80%" src="https://metrics.lecoq.io/JuanPabloFue23?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.limit=8&theme=tokyonight" />
 </p>
 ---
 
