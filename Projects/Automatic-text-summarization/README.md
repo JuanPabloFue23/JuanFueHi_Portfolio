@@ -55,3 +55,12 @@ $$ROUGE-N = \frac{\sum_{S \in \{Reference\}} \sum_{gram_n \in S} Count_{match}(g
 2. **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
+
+3. **Run the Demo:**
+    ```bash
+    python main.py --input "your_long_text.txt" --type "abstractive"
+
+#### 🏗️ Featured Projects
+| Project | Description | Tech | Link |
+| :--- | :--- | :--- | :--- |
+| **NLP Summarizer** | Dual-mode automatic text summarization using SOTA Transformers. | `Python`, `Transformers`, `PyTorch` | [View Repo →](https://github.com/JuanPabloFue23/JuanFueHi_Portfolio/tree/main/Projects/Automatic-text-summarization) |
