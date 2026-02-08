@@ -33,7 +33,7 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured [Projects](https://github.com/JuanPabloFue23/JuanFueHi_Portfolio/tree/main/Projects)
 
 ### 🤖 AI & Natural Language Processing (NLP)
 
