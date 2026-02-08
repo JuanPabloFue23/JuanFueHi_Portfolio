@@ -50,14 +50,6 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 
 ---
 
-## 📈 GitHub Stats
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img width="80%" src="https://metrics.lecoq.io/JuanPabloFue23?template=classic&base=header,activity,community,repositories&languages=1&languages.sections=most-used&languages.limit=8&theme=tokyonight" />
-</p>
----
-
 <p align="center">
   Thanks for stopping by! I'm always open to discussing AI, Engineering, or the future of Agentic Systems.
 </p>
