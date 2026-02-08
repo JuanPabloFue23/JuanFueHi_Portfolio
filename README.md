@@ -51,9 +51,17 @@ I am a **Mechanical Engineer** transitioning into the world of Artificial Intell
 ---
 
 ## 📈 GitHub Stats
-## 📈 My Activity
-- **Total Contributions:** ![GitHub total contributions](https://img.shields.io/github/search/JuanPabloFue23?query=user%3AJuanPabloFue23&label=Commits&color=green)
-- **Top Language:** ![GitHub top language](https://img.shields.io/github/languages/top/JuanPabloFue23/JuanFueHi_Portfolio?color=blue)
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanPabloFue23&show_icons=true&theme=tokyonight&count_private=true" alt="Juan Pablo's Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloFue23&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloFue23&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 ---
 
 <p align="center">
