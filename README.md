@@ -2,7 +2,7 @@
 ### AI Engineer & Data Scientist | Mechanical Engineer
 
 <p align="left">
-  <a href="https://github.com/JuanPabloFue23">
+  <a href="https://www.linkedin.com/in/juan-pablo-fuentes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juan.fuentesh15@gmail.com">
