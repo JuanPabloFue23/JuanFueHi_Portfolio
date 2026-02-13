@@ -45,12 +45,12 @@ export class Order {
   private validate() {
     // Rule 1: A business cannot exist if it loses money on a total.
     if (this.props.totalAmount < 0) {
-      throw new Error("El monto total no puede ser negativo");
+      throw new Error("The total amount should not be negative/El monto total no puede ser negativo");
     }
     
     // Rule 2: An order without products is technically an empty cart, not an order.
     if (this.props.items.length === 0) {
-      throw new Error("La orden debe tener al menos un producto");
+      throw new Error("The order should have at least one product/La orden debe tener al menos un producto");
     }
   }
 
